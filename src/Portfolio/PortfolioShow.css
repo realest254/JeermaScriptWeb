@@ -154,7 +154,6 @@
 /* Responsive design */
 @media (max-width: 768px) {
   .portfolioShow {
-    padding: 30px 15px;
     max-height: none;
     min-height: 100vh;
   }
